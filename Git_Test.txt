@@ -1,6 +1,4 @@
 This is an default line.
 #This line typed on local and not merged.
 ##Another changes on local file
-=======
 Directly added line on the GIT
->>>>>>> b2cc4b897c8a153dde2551a134e31aad4b9160c4
