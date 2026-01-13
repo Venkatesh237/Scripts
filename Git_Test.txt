@@ -2,3 +2,5 @@ This is an default line.
 #This line typed on local and not merged.
 ##Another changes on local file
 Directly added line on the GIT
+New line
+Second line
