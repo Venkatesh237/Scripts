@@ -25,5 +25,5 @@ if ($confirm -eq "YES") {
         }
     }
 } else {
-    Write-Host "❌ Operation cancelled"
+    Write-Host "❌ Operation cancelled."
 }
